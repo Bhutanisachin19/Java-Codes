@@ -1,0 +1,3 @@
+created a jar file and saved it in c drive 
+use clientfor jar file and jar file to run code
+
